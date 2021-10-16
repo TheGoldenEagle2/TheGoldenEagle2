@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TheGoldenEagle2
+- 👋 Hi, I’m @Escanor Sama
 - 👀 I’m interested in ...Coding
-- 🌱 I’m currently learning ...python
+- 🌱 I’m currently learning ...HTML,CSS and JAVASCRIPT
 - 💞️ I’m looking to collaborate on ...anything
 - 📫 How to reach me ...jamesdown661@gmail.com
 
